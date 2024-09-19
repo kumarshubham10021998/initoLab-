@@ -1,0 +1,24 @@
+/* Header.css */
+.font-semi-bold {
+    font-weight: 600;
+  }
+  
+  .text-dark {
+    color: #000;
+  }
+  
+  .navbar-toggler {
+    border: none;
+  }
+  
+  .navbar-toggler-icon {
+    /* background-image: url('path_to_your_custom_hamburger_icon.svg');  */
+    /* Custom hamburger icon if required */
+  }
+  
+  @media (max-width: 991px) {
+    .navbar-nav {
+      text-align: center;
+    }
+  }
+  
